@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# This module is under the UIUC open-source license. See 
-# github.com/BioSTEAMDevelopmentGroup/biosteam/blob/master/LICENSE.txt
+# Life cycle assessment of a given flavored food system.
+# Copyright (C) 2025-, Sarang Bhagwat <sarangb2@illinois.edu>
+# 
+# This module is under the MIT open-source license. See 
+# https://github.com/sarangbhagwat/flavored_food_lca/blob/main/LICENSE
 # for license details.
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 
 from biorefineries.lca.lca import LCA
 
